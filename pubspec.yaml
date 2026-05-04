@@ -1,0 +1,14 @@
+name: tap_earn_demo
+description: Demo earning app
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_mobile_ads: ^5.0.0
+
+flutter:
+  uses-material-design: true
